@@ -2,10 +2,11 @@
 
 # LiteSQL
 
-"Python" (https://img.shields.io/badge/Python-3.10+-blue.svg)
-"License" (https://img.shields.io/badge/License-MIT-green.svg)
-"Platform" (https://img.shields.io/badge/Platform-CLI-lightgrey.svg)
-"Status" (https://img.shields.io/badge/Status-Active-success.svg)
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Platform](https://img.shields.io/badge/Platform-CLI-lightgrey.svg)
+![Status](https://img.shields.io/badge/Status-Active-success.svg)
+
 
 
 LiteSQL is a lightweight, MySQL-like command-line database tool built with Python and SQLite.  
